@@ -1,3 +1,4 @@
-I'm using Token based authentication 
+I'm using Token based authentication for all the API's
+You can check all the list of API's in touringTech/urls.py file
 For admin the Token is 6f971f24541bcb1acb3292c9a77ac686760816f3
 You can add your own user and generate a new token by making a post request with username and password to api-token-auth/
